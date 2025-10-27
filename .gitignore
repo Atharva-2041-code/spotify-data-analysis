@@ -1,0 +1,5 @@
+# Ignore Python virtual environment directory
+venv/
+.venv/
+spotify_venv/
+
